@@ -1,0 +1,7 @@
+.friend-display {
+    border: 2px solid red;
+    margin: 10px;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 6px 6px black;
+  }
